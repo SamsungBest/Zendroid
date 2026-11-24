@@ -6,7 +6,7 @@ Project Zendroid is an independent Android system porting and adaptation project
 
 The project builds upon Intel's Project Celadon and the Android Open Source Project (AOSP), with an emphasis on hardware compatibility, system stability, power management, and device-specific integration.
 
-Initial development has focused on the ThinkPad X1 Tablet Gen 3, including work on boot configuration, kernel and driver adaptation, hardware abstraction layers, and peripheral support.
+Initial development has focused on the ThinkPad X1 Tablet Gen 3, including work on boot configuration, kernel and driver adaptation, hardware abstraction layers, and peripheral support, where full report can be examined on [Project_Zendroid_NMB271_Validation_Report.pdf](https://github.com/SamsungBest/Zendroid/blob/main/Project_Zendroid_NMB271_Validation_Report.pdf)
 
 ## Project Homepage
 
